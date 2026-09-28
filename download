@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local telemetry / generated artifacts
+*.log
+data/raw/
+data/native/
+outputs/
+artifacts/
+*.zip
+
+# Secrets / local configuration
+config.local.*
+secrets.*
+*.key
+*.pem
