@@ -1,0 +1,13 @@
+metric,value,status
+reference_lap,Lap 03,PASS
+reference_lap_time_s,62.584166,PASS
+lap_02_time_s,63.905411,PASS
+lap_02_delta_s,+1.321244489,PASS
+lap_01_time_s,64.156156,PASS
+lap_01_delta_s,+1.571989647,PASS
+normalized_grid_points,400,PASS
+common_distance_m,5953.017578,PASS
+fixed_sectors,10,PASS
+semantic_segments,13,PASS
+semantic_corners,6,PASS
+semantic_straights,7,PASS
